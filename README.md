@@ -30,7 +30,7 @@
 
 4. Open the [`.env`](.env) file, and enter the app client ID and client secret
    values that you saved at the beginning of step 3 above.
-5. Run `npm start` to start developing.
+5. Run `yarn start` to start developing.
 
 When your server is up and running:
 
